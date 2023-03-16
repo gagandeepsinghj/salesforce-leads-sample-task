@@ -29,4 +29,7 @@
 
 ### Example Output:
 
-`[Customer__c(Id='C001', Name='Jane Doe', Email__c='jane.doe@company.com'),    Customer__c(Id='C002', Name='Bob Johnson', Email__c='bob.johnson@company.com')]`
+`[
+   Customer__c(Id='C001', Name='Jane Doe', Email__c='jane.doe@company.com'),
+   Customer__c(Id='C002', Name='Bob Johnson', Email__c='bob.johnson@company.com')
+ ]`
